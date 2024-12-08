@@ -22,7 +22,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://167.86.86.168:8087",
+  "proxy": "https://to-do-app-backend-71e1291acd79.herokuapp.com",
   "browserslist": {
     "production": [
       ">0.2%",
